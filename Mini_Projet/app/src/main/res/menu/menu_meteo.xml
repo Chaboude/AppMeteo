@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_favoris"
+        android:icon="@mipmap/is_not_in_favoris"
+        android:title="Favoris"
+        app:showAsAction="ifRoom" />
+
+</menu>
